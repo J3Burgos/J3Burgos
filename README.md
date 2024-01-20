@@ -12,9 +12,9 @@ Estos son algunos de los lenguajes, frameworks y herramientas con los que he tra
 
 
 ## 💬 Puedes encontrarme en:
-  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-burgos-ortega-a77092281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5TDqRBU%2FQNyTZ3ktMmPSOQ%3D%3D)
-  - [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/J3Burgos)
-  - [![Correo Electrónico](https://img.shields.io/badge/-Correo%20Electrónico-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jorgeburgosortega2003@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-burgos-ortega-a77092281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5TDqRBU%2FQNyTZ3ktMmPSOQ%3D%3D)
+  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/J3Burgos)
+  [![Correo Electrónico](https://img.shields.io/badge/-Correo%20Electrónico-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jorgeburgosortega2003@gmail.com)
 
     
 ## Estadísticas
