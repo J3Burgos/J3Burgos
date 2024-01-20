@@ -1,8 +1,6 @@
 <div align="center">
   
 ## ¡Hola, soy Jorge Burgos! 👋
-
-## Sobre mí
 Soy un estudiante de tercer año de Ingeniería Informática con especialización en Computación, apasionado por el desarrollo de software y la resolución de problemas complejos. Mi enfoque se centra en combinar sólidos conocimientos teóricos con habilidades prácticas para crear soluciones efectivas.
 
 
