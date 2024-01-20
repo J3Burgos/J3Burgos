@@ -6,8 +6,11 @@ Soy un estudiante de tercer año de Ingeniería Informática con especializació
 
 ## ⚒️ Lenguajes, Frameworks y Herramientas ⚒️
 Estos son algunos de los lenguajes, frameworks y herramientas con los que he trabajado:
- **Lenguajes de Programación:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white), ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white), ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
+ 
+ **Lenguajes de Programación:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
+ 
  **Bases de Datos:** ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+ 
  **Herramientas:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
 
 
