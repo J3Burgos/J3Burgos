@@ -10,7 +10,7 @@ Estos son algunos de los lenguajes, frameworks y herramientas con los que he tra
 - Herramientas: GitHub
 
 
-- 💬 Puedes encontrarme en:
+## 💬 Puedes encontrarme en:
   - [LinkedIn]([URL_de_Tu_LinkedIn](https://www.linkedin.com/in/jorge-burgos-ortega-a77092281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5TDqRBU%2FQNyTZ3ktMmPSOQ%3D%3D))
   - [GitHub](https://github.com/J3Burgos)
   - [Correo](jorgeburgosortega2003@gmail.com)
