@@ -1,4 +1,5 @@
-## ¡Hola, soy Jorge Burgos! 👋
+<div align="center">
+# ¡Hola, soy Jorge Burgos! 👋
 
 ## Sobre mí
 Soy un estudiante de tercer año de Ingeniería Informática con especialización en Computación, apasionado por el desarrollo de software y la resolución de problemas complejos. Mi enfoque se centra en combinar sólidos conocimientos teóricos con habilidades prácticas para crear soluciones efectivas.
@@ -6,10 +7,9 @@ Soy un estudiante de tercer año de Ingeniería Informática con especializació
 
 ## Lenguajes, Frameworks y Herramientas
 Estos son algunos de los lenguajes, frameworks y herramientas con los que he trabajado:
-- Lenguajes de Programación: Python, Java, C++
-- Bases de Datos: MySQL
-- Herramientas: GitHub
-
+- **Lenguajes de Programación:** Python, Java, C++
+- **Bases de Datos:** MySQL
+- **Herramientas:** [GitHub](https://github.com/)
 
 ## 💬 Puedes encontrarme en:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-burgos-ortega-a77092281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5TDqRBU%2FQNyTZ3ktMmPSOQ%3D%3D)
@@ -27,3 +27,4 @@ Estos son algunos de los lenguajes, frameworks y herramientas con los que he tra
 - [Clinica Fisio](https://github.com/J3Burgos/ClinicaFisIPO)
   
 ¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades futuras y el continuo aprendizaje en el mundo de la informática.
+</div>
