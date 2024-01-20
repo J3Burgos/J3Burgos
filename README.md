@@ -1,4 +1,4 @@
-<marquee behavior="alternate">¡Hola, soy Jorge Burgos! 👋</marquee>
+<marquee behavior="alternate">##¡Hola, soy Jorge Burgos! 👋</marquee>
 
 ## Sobre mí
 Soy un estudiante de tercer año de Ingeniería Informática con especialización en Computación, apasionado por el desarrollo de software y la resolución de problemas complejos. Mi enfoque se centra en combinar sólidos conocimientos teóricos con habilidades prácticas para crear soluciones efectivas.
@@ -12,9 +12,9 @@ Estos son algunos de los lenguajes, frameworks y herramientas con los que he tra
 
 
 ## 💬 Puedes encontrarme en:
-  - [LinkedIn](https://www.linkedin.com/in/jorge-burgos-ortega-a77092281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5TDqRBU%2FQNyTZ3ktMmPSOQ%3D%3D)
-  - [GitHub](https://github.com/J3Burgos)
-  - Correo: jorgeburgosortega2003@gmail.com
+  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-burgos-ortega-a77092281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5TDqRBU%2FQNyTZ3ktMmPSOQ%3D%3D)
+  - [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/J3Burgos)
+  - [![Correo Electrónico](https://img.shields.io/badge/-Correo%20Electrónico-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jorgeburgosortega2003@gmail.com)
 
     
 ## Estadísticas
