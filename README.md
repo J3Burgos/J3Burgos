@@ -16,7 +16,7 @@ Estos son algunos de los lenguajes, frameworks y herramientas con los que he tra
   - [Correo](jorgeburgosortega2003@gmail.com)
     
 ## Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=J3Burgos&show_icons=true&theme=radical)
 
 ## Proyectos Destacados
 - [Clinica Fisio](URL_del_Proyecto)
