@@ -24,6 +24,6 @@ Estos son algunos de los lenguajes, frameworks y herramientas con los que he tra
 
 
 ## Proyectos Destacados
-- [Clinica Fisio](URL_del_Proyecto)
+- [Clinica Fisio](https://github.com/J3Burgos/ClinicaFisIPO)
   
 ¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades futuras y el continuo aprendizaje en el mundo de la informática.
