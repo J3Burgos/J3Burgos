@@ -20,15 +20,7 @@ Estos son algunos de los lenguajes, frameworks y herramientas con los que he tra
   [![Correo Electrónico](https://img.shields.io/badge/-Correo%20Electrónico-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jorgeburgosortega2003@gmail.com)
 
     
-## ⚡ Estadísticas ⚡
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=J3Burgos&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=J3Burgos&layout=compact)
-
-
-
 ## Proyectos Destacados
-[Clinica Fisio](https://github.com/J3Burgos/ClinicaFisIPO)
-Este proyecto tiene como objetivo desarrollar una aplicación de escritorio utilizando C# para gestionar eficientemente la información de pacientes y personal en una clínica de fisioterapia. La interfaz de usuario ofrecerá una experiencia intuitiva, permitiendo a los usuarios acceder y actualizar datos de pacientes, programar citas, mantener un registro del historial clínico y gestionar la información del personal médico y administrativo.
 
 ### [Clinica Fisio](https://github.com/J3Burgos/ClinicaFisIPO)
 Aplicación de escritorio desarrollada en C# para la gestión eficiente de información de pacientes y personal en una clínica de fisioterapia. La interfaz intuitiva permite a los usuarios acceder y actualizar datos de pacientes, programar citas, mantener un registro del historial clínico y gestionar la información del personal médico y administrativo.
