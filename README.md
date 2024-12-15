@@ -1,7 +1,7 @@
 <div align="center">
   
 ## ¡Hola, soy Jorge Burgos! 👋
-Soy un estudiante de 4º año de Ingeniería Informática con la mención en Computación, apasionado por la cincia de datos, la inteligencia artificial y matching learning. Estoy abierto en buscar trabajo y para hacer las prácticas de empresa, me encanta la logica y los sistemas basados en conocimiento.
+Soy un estudiante de 4º año de Ingeniería Informática con la mención en Computación, apasionado por la mineria de datos, la inteligencia artificial y matching learning. Estoy abierto en buscar trabajo y para hacer las prácticas de empresa, me encanta la logica y los sistemas basados en conocimiento.
 
 
 ## ⚒️ Lenguajes, Frameworks y Herramientas ⚒️
@@ -20,7 +20,7 @@ Estos son algunos de los lenguajes, frameworks y herramientas con los que he tra
   [![Correo Electrónico](https://img.shields.io/badge/-Correo%20Electrónico-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jorgeburgosortega2003@gmail.com)
 
     
-## Proyectos Destacados
+## 🌟 Proyectos Destacados 🌟
 
 ### [Clinica Fisio](https://github.com/J3Burgos/ClinicaFisIPO)
 Aplicación de escritorio desarrollada en C# para la gestión eficiente de información de pacientes y personal en una clínica de fisioterapia. La interfaz intuitiva permite a los usuarios acceder y actualizar datos de pacientes, programar citas, mantener un registro del historial clínico y gestionar la información del personal médico y administrativo.
@@ -28,6 +28,11 @@ Aplicación de escritorio desarrollada en C# para la gestión eficiente de infor
 ### [La Gomera](https://github.com/J3Burgos/La_Gomera_Mapa_de_Calor)
 Se centra en resolver un problema de búsqueda de rutas óptimas en un mapa geográfico de la isla de La Gomera, utilizando técnicas de inteligencia artificial. El objetivo principal es desarrollar una aplicación que, partiendo de un estado inicial y un estado objetivo, explore rutas posibles en un entorno de mapa con diferentes restricciones, utilizando algoritmos de búsqueda heurística.
 
-</div>
-  
-</div>
+### [Procesadores_2425](https://github.com/RedBed24/Procesadores_2425)
+Procesador del lenguaje musical para músicos amateurs con generación de música y partituras, esta en proceso.
+
+
+# 📊 Mis estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=J3Burgos&show_icons=true&theme=radical)
+
