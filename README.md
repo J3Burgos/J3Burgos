@@ -30,9 +30,3 @@ Se centra en resolver un problema de búsqueda de rutas óptimas en un mapa geog
 
 ### [Procesadores_2425](https://github.com/RedBed24/Procesadores_2425)
 Procesador del lenguaje musical para músicos amateurs con generación de música y partituras, esta en proceso.
-
-
-# 📊 Mis estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=J3Burgos&show_icons=true&theme=radical)
-
