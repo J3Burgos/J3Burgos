@@ -31,5 +31,5 @@ Se centra en resolver un problema de búsqueda de rutas óptimas en un mapa geog
 ### [Procesadores_2425](https://github.com/RedBed24/Procesadores_2425)
 Procesador del lenguaje musical para músicos amateurs con generación de música y partituras.
 
-### [EmergenciasNFC]([https://github.com/RedBed24/Procesadores_2425](https://github.com/J3Burgos/Dise-o_Sistemas_Interativos))
+### [EmergenciasNFC](https://github.com/J3Burgos/Dise-o_Sistemas_Interativos.git)
 Proyecto de la asignatura de Diseño de Sistemas interactivos, donde podremos encontrar una web con analisis de transcripcion de voz a texto, donde extraemos los datos del motivo de la llamada de emergencia y un chat en vivo que funciona con falsk_sockectio.
