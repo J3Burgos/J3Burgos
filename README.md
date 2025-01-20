@@ -29,4 +29,7 @@ Aplicación de escritorio desarrollada en C# para la gestión eficiente de infor
 Se centra en resolver un problema de búsqueda de rutas óptimas en un mapa geográfico de la isla de La Gomera, utilizando técnicas de inteligencia artificial. El objetivo principal es desarrollar una aplicación que, partiendo de un estado inicial y un estado objetivo, explore rutas posibles en un entorno de mapa con diferentes restricciones, utilizando algoritmos de búsqueda heurística.
 
 ### [Procesadores_2425](https://github.com/RedBed24/Procesadores_2425)
-Procesador del lenguaje musical para músicos amateurs con generación de música y partituras, esta en proceso.
+Procesador del lenguaje musical para músicos amateurs con generación de música y partituras.
+
+### [EmergenciasNFC]([https://github.com/RedBed24/Procesadores_2425](https://github.com/J3Burgos/Dise-o_Sistemas_Interativos))
+Proyecto de la asignatura de Diseño de Sistemas interactivos, donde podremos encontrar una web con analisis de transcripcion de voz a texto, donde extraemos los datos del motivo de la llamada de emergencia y un chat en vivo que funciona con falsk_sockectio.
