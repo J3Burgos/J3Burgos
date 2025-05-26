@@ -1,7 +1,9 @@
 <div align="center">
   
 ## ¡Hola, soy Jorge Burgos! 👋
-Estudiante de último curso de Ingeniería Informática con mención en Computación. Apasionado por el análisis de datos y su aplicación en el deporte.<br> Busco prácticas curriculares para desarrollar proyectos reales y completar mi formación académica. Proactivo, resolutivo y con visión analítica.
+Estudiante de Ingeniería Informática en la Intensificación de Computación por la UCLM. Apasionado por el análisis y visualización de datos.
+Me interesa aplicar la tecnología para resolver problemas reales, especialmente en ámbitos como la inteligencia de negocio o el deporte.
+Proactivo, resolutivo y con visión analítica.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/j_3_burgos#1352) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/J_3_Burgos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jorge-burgos-ortega-a77092281/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jorgeburgosortega2003@gmail.com) 
@@ -20,11 +22,11 @@ Estudiante de último curso de Ingeniería Informática con mención en Computac
 ### [Clinica Fisio](https://github.com/J3Burgos/ClinicaFisIPO)
 Aplicación de escritorio desarrollada en C# para la gestión eficiente de información de pacientes y personal en una clínica de fisioterapia. La interfaz intuitiva permite a los usuarios acceder y actualizar datos de pacientes, programar citas, mantener un registro del historial clínico y gestionar la información del personal médico y administrativo.
 
-### [La Gomera](https://github.com/J3Burgos/La_Gomera_Mapa_de_Calor)
+### [La Gomera – Mapa de Calor](https://github.com/J3Burgos/La_Gomera_Mapa_de_Calor)
 Se centra en resolver un problema de búsqueda de rutas óptimas en un mapa geográfico de la isla de La Gomera, utilizando técnicas de inteligencia artificial. El objetivo principal es desarrollar una aplicación que, partiendo de un estado inicial y un estado objetivo, explore rutas posibles en un entorno de mapa con diferentes restricciones, utilizando algoritmos de búsqueda heurística.
 
 ### [Procesadores_2425](https://github.com/RedBed24/Procesadores_2425)
-Procesador del lenguaje musical para músicos amateurs con generación de música y partituras.
+Participé en el desarrollo de un procesador de lenguaje musical orientado a músicos amateurs. El proyecto permite generar partituras y melodías simples mediante reglas programadas, combinando Python y Java en su implementación.
 
-### [EmergenciasNFC](https://github.com/J3Burgos/Dise-o_Sistemas_Interativos.git)
-Proyecto de la asignatura de Diseño de Sistemas interactivos, donde podremos encontrar una web con analisis de transcripcion de voz a texto, donde extraemos los datos del motivo de la llamada de emergencia y un chat en vivo que funciona con falsk_sockectio.
+### [Cas-ET12Lab-G2](https://github.com/J3Burgos/Cas-ET12Lab-G2)
+Desarrollé un evaluador de fórmulas lógicas en Prolog, capaz de interpretar expresiones de lógica de predicados sobre dominios finitos. Este proyecto permite definir interpretaciones personalizadas y evaluar fórmulas utilizando conectores lógicos y cuantificadores.
